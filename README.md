@@ -58,21 +58,21 @@ The purpose of this project is to predict whether a patient is suffering from a 
 
 Features:
 ![info](assets/info.png)
-
+\
 Mean values for those with and without heart disease:
 ![info](assets/YvsN.png)
-
+\
 Correlation between the features:
-
+\
 ![heatmap](assets/corr.png)
-
+\
 Confusion matrix of Random Forest Classifier:
-
+\
 ![Confusion matrix](assets/confusion.png)
-
+\
 Recall score for random forest classifier:
 ![concl](assets/conclusion.png)
-
+<br/><br/>
 - **The final model used for this project: Random Forest Classifier**
 **Metrics used: Recall**  <br/><br/>
 
