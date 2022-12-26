@@ -23,13 +23,7 @@
   - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
   - [Run Locally](#run-locally)
   - [Explore the notebook](#explore-the-notebook)
-  - [Deployment on streamlit](#deployment-on-streamlit)
-  - [App deployed on Streamlit](#app-deployed-on-streamlit)
-  - [Repository structure](#repository-structure)
-  - [Contribution](#contribution)
-  - [Blog post](#blog-post)
-  - [Project featuring](#project-featuring)
-  - [License](#license)
+
 
 
 
@@ -62,7 +56,8 @@ Features:
 ![info](assets/info.png)
 \
 \
-Mean values for those with and without heart disease:
+Mean values for those with
+and without heart disease:
 ![info](assets/YvsN.png)
 \
 \
