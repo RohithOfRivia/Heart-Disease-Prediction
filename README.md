@@ -56,8 +56,9 @@ Features:
 ![info](assets/info.png)
 \
 
-Mean values for those with \
-and without heart disease:
+Mean values for those with and without heart disease:
+\
+\
 ![info](assets/YvsN.png)
 \
 \
