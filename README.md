@@ -1,4 +1,4 @@
-![banner](assets/heart.png)
+![banner](assets/heart.jpg)
 
 
 ![Python version](https://img.shields.io/badge/Python%20version-3.9%2B-green)
@@ -57,18 +57,26 @@ The purpose of this project is to predict whether a patient is suffering from a 
 ## Quick glance at the results
 
 Features:
+\
+\
 ![info](assets/info.png)
+\
 \
 Mean values for those with and without heart disease:
 ![info](assets/YvsN.png)
 \
+\
 Correlation between the features:
+\
 \
 ![heatmap](assets/corr.png)
 \
+\
 Confusion matrix of Random Forest Classifier:
 \
+\
 ![Confusion matrix](assets/confusion.png)
+\
 \
 Recall score for random forest classifier:
 ![concl](assets/conclusion.png)
