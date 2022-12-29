@@ -100,7 +100,7 @@ Recall score for random forest classifier:
 
 ## Explore the notebook
 
-To explore the notebook file [here](https://nbviewer.org/github/RohithOfRivia/Heart-Disease-Prediction/blob/6785386f319bafe4fb514d61153c533a02c64431/Heart%20Failure%20EDA%20and%20Prediction%28DT%20and%20RFC%29.ipynb)
+To explore the notebook file [here](https://nbviewer.org/github/RohithOfRivia/Heart-Disease-Prediction/blob/0eb7de96828a34022523312b5ccabb28542ecf60/Heart%20Failure%20EDA%20and%20Prediction%28DT%20and%20RFC%29.ipynb)
 
 
 
