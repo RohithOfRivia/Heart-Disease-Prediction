@@ -85,7 +85,7 @@ Recall score for random forest classifier:
  
 - Since such a large amount of people lose their lives due to heart failure, it is important correctly classify all patients having heart disease correctly. Leaving a heart patient undiagnosed can be fatal.
 
- **Lessons learned and recommendation**
+ ## Lessons learned and recommendation
 
 - Based on the analysis and the final model of this project, ST Slope is the most important predictor of heart disease. That being said, there are many more features that are also important to predict - Age, Chest pain type, Oldpeak, just to name a few.
   
