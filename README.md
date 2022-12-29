@@ -19,8 +19,8 @@
   - [Methods](#methods)
   - [Tech Stack](#tech-stack)
   - [Quick glance at the results](#quick-glance-at-the-results)
-  - [Lessons learned and recommendation](#lessons-learned-and-recommendation)
-  - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
+  - [Lessons learned and recommendations](#lessons-learned-and-recommendation)
+  - [Limitations and what can be improved](#limitations-and-what-can-be-improved)
   - [Run Locally](#run-locally)
   - [Explore the notebook](#explore-the-notebook)
 
@@ -91,7 +91,7 @@ Recall score for random forest classifier:
   
 - Even though there are many attributes that are similarly correlated, to the presence of heart disease, the feature importances of the model did not seem to always follow the same pattern. This could be because there is more than just a linear relationship between these features.
 
-## Limitation and what can be improved
+## Limitations and what can be improved
 - Find non linear relatioships using multivariate mutual information, maximum information coefficient.
  
 - Hyperparameter tuning with cross validation.
