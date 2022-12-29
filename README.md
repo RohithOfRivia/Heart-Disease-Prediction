@@ -21,7 +21,6 @@
   - [Quick glance at the results](#quick-glance-at-the-results)
   - [Lessons learned and recommendations](#lessons-learned-and-recommendation)
   - [Limitations and what can be improved](#limitations-and-what-can-be-improved)
-  - [Run Locally](#run-locally)
   - [Explore the notebook](#explore-the-notebook)
 
 
